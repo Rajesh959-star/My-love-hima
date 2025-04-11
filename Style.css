@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to right, #ffe3e3, #ffc6c6);
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 10px 20px;
+  background: #ff5e78;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
